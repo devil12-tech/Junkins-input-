@@ -1,8 +1,8 @@
 import sys
 
 if len(sys.argv) == 5:
-    name = sys.argv[0]
-    rollno = sys.argv[1]
+    script_name = sys.argv[0]
+    name = sys.argv[1]
     mark1 = sys.argv[2]
     mark2 = sys.argv[3]
     mark3= sys.argv[4]
