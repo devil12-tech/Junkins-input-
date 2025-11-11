@@ -16,7 +16,7 @@ else:
     mark3= "35"
     print("No input given, using default values:")
 
-total = int(mark1) + int(mark2) + int(mark3) + int(mark4) + int(mark5)
+total = int(mark1) + int(mark2) + int(mark3) 
 average = total / 5 
 print(" Name:", name)
 print("Student Name:", name)
